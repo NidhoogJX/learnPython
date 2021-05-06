@@ -8,3 +8,4 @@ else:
      d['Alice'] = list
      list.append(60)
 print(d)
+ooo
